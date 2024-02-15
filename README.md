@@ -21,3 +21,6 @@ Veri seti, %80 eğitim ve %20 test setleri olarak ayrıldı. Ardından, doğrusa
 
 Projeyi çalıştırmak için Python 3 ve gerekli kütüphanelerin yüklü olması gerekmektedir. Daha sonra, `salary_pre.py` dosyasını çalıştırarak modeli eğitebilir ve sonuçları görselleştirebilirsiniz.
 
+<img width="752" alt="Screenshot 2024-02-15 at 15 51 46" src="https://github.com/fbturan/Salary-Prediction/assets/93981924/e950e57f-3130-4e66-8e1a-a2d85723f143">
+
+
